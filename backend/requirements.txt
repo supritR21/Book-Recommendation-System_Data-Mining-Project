@@ -1,0 +1,4 @@
+fastapi==0.135.2
+uvicorn[standard]==0.42.0
+pandas==3.0.1
+mlxtend==0.24.0
