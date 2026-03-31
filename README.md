@@ -2,6 +2,13 @@
 
 A full-stack web application that provides intelligent book recommendations using association rule mining. Built with FastAPI backend and Next.js frontend, this system analyzes user ratings and leverages the Apriori algorithm to suggest books users might enjoy.
 
+## 📸 Screenshots
+
+![Project Image 1](/img1)
+![Project Image 2](/img2)
+![Project Image 3](/img3)
+![Project Image 4](/img4)
+
 ## 🎯 Features
 
 - **Smart Recommendations**: Uses association rule mining to find books frequently bought/rated together
