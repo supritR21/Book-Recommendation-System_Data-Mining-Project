@@ -4,10 +4,10 @@ A full-stack web application that provides intelligent book recommendations usin
 
 ## 📸 Screenshots
 
-![Project Image 1](/img1)
-![Project Image 2](/img2)
-![Project Image 3](/img3)
-![Project Image 4](/img4)
+![Project Image 1](/img1.png)
+![Project Image 2](/img2.png)
+![Project Image 3](/img3.png)
+![Project Image 4](/img4.png)
 
 ## 🎯 Features
 
